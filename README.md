@@ -4,7 +4,7 @@
 - Repositorio público para visualización de proyectos privados realizados.
 
 **Meta**
-- Utilizar este repositorio para muestra de proyectos a travez de documento pdf.
+- Utilizar este repositorio para muestra de proyectos realizados en diferentes lenguajes de programación a travez de documento pdf.
 
 **Dueño del repositorio**
 - Norton Irarrázabal.
