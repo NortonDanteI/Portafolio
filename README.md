@@ -1,7 +1,7 @@
 # Portafolio
 
 **Descripción del Repositorio:**
-- Este es un repositorio público diseñado para la visualización selectiva de proyectos privados. No se comparte el código privado, únicamente los resultados finales.
+- Este es un repositorio público diseñado para la visualización selectiva de proyectos privados. No se comparte el código fuente, únicamente los resultados finales.
 
 **Meta:**
 - Utilizar este espacio para exhibir proyectos realizados en diversos lenguajes de programación mediante documentos en formato PDF.
